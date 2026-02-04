@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "fk_ik_snapping_tools"
+
+version = "1.0.0"
+
+name = "FK/IK Snapping Tools"
+
+tagline = "Seamlessly snap FK controls to IK and vice versa"
+
+maintainer = "Henry Jiang <henryyjiang42@gmail.com>"
+
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+category = "Animation"
+
+tags = ["Animation", "Rigging"]
