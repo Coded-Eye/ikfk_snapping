@@ -336,9 +336,6 @@ class FKIK_OP_Symmetrize(bpy.types.Operator):
 
         self.report({'INFO'}, "mirrored")
 
-        for area in context.screen.areas:
-            area.tag_redraw()
-
         return {'FINISHED'}
 
 
